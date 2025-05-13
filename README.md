@@ -10,7 +10,7 @@ This lab demonstrates how to use **Web Components** and **localStorage** to buil
 
 ## GitHub Pages Deployment
 **Live Site:**  
-👉 [https://samat4e.github.io/CSE110-SP25/Lab6_Starter/](https://samat4e.github.io/cse110-lab6/)  
+👉 [https://samat4e.github.io/CSE110-SP25/Lab6_Starter/](http://127.0.0.1:5500/index.html)  
 
 ## File Overview
 - `index.html` — Base structure of the web page
