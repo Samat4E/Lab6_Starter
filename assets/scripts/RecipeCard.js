@@ -106,7 +106,7 @@ class RecipeCard extends HTMLElement {
 			</p>
 			<p class="organization">${data.organization}</p>
 			<div class="rating">
-				<span>${'⭐'.repeat(data.rating)}</span>
+				<span>${.repeat(data.rating)}</span>
 				<span>(${data.numRatings})</span>
 			</div>
 			<time>${data.lengthTime}</time>
