@@ -9,8 +9,8 @@ This lab demonstrates how to use **Web Components** and **localStorage** to buil
 - LocalStorage clearing functionality
 
 ## GitHub Pages Deployment
-**Live Site:**  
-👉 [https://samat4e.github.io/CSE110-SP25/Lab6_Starter/](http://127.0.0.1:5500/index.html)  
+ 
+👉 [Live Site](https://samat4e.github.io/Lab6_Starter/)  
 
 ## File Overview
 - `index.html` — Base structure of the web page
